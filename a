@@ -1,0 +1,80 @@
+[33mcommit d35b8a3ce0e509f46a01cd084d1f3fa7a93de5f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 16:00:08 2022 +0200
+
+    Testing git basic command
+
+ information.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit c29bd31aca6b00c7bcc3495eafb283fb8ea65b04[m
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 15:59:52 2022 +0200
+
+    Testing git basic command
+
+ information.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 4d54071154e1574116f5c699955b1410a75c3923[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 43193b9 d3d462e
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 14:48:25 2022 +0200
+
+    add shit
+
+[33mcommit 43193b9a30dbaa54d52e9b07763f8a9448ae1c1f[m
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 14:45:57 2022 +0200
+
+    Niv reallyyyyy gat
+
+ file.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d3d462ea0cd12e15c53e12c60a45e1935c04c004[m
+Author: Niv Rimon <something@example.com>
+Date:   Tue Mar 22 14:45:12 2022 +0200
+
+    sagiv is realy realy realy gay
+
+ file.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 2ac42ce285b3c1c0aafa0e17dba2ff38aa73f100[m
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 14:43:58 2022 +0200
+
+    Niv really gay
+
+ file.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 81d90e6a9a6485e070d30089b0fb27408622f10b[m
+Author: Niv Rimon <something@example.com>
+Date:   Tue Mar 22 14:42:08 2022 +0200
+
+    sagiv C=3
+
+ file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit d62803ef05656351dd432223f838019cfba43d0e[m
+Author: sagiv ferber <saidjasd@gmail.com>
+Date:   Tue Mar 22 14:34:59 2022 +0200
+
+    Niv is gay
+
+ file1 | 0
+ file2 | 0
+ file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit b150305d33bed74eceed7b8684ab192c1edaa16a[m
+Author: ferberSagiv <98186378+ferberSagiv@users.noreply.github.com>
+Date:   Tue Mar 22 14:20:59 2022 +0200
+
+    Initial commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
